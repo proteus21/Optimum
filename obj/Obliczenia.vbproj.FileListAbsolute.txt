@@ -1,0 +1,87 @@
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2005\Projects\Obliczenia\Obliczenia\bin\Debug\Obliczenia.exe
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2005\Projects\Obliczenia\Obliczenia\bin\Debug\Obliczenia.pdb
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2005\Projects\Obliczenia\Obliczenia\bin\Debug\Obliczenia.xml
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2005\Projects\Obliczenia\Obliczenia\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2005\Projects\Obliczenia\Obliczenia\obj\Debug\Kazia.Form1.resources
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2005\Projects\Obliczenia\Obliczenia\obj\Debug\Kazia.Resources.resources
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2005\Projects\Obliczenia\Obliczenia\obj\Debug\Obliczenia.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2005\Projects\Obliczenia\Obliczenia\obj\Debug\Obliczenia.exe
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2005\Projects\Obliczenia\Obliczenia\obj\Debug\Obliczenia.xml
+C:\Documents and Settings\Administrator\Moje dokumenty\Visual Studio 2005\Projects\Obliczenia\Obliczenia\obj\Debug\Obliczenia.pdb
+E:\Obliczenia\Obliczenia\obj\Debug\Obliczenia.exe
+E:\Obliczenia\Obliczenia\obj\Debug\Obliczenia.xml
+E:\Obliczenia\Obliczenia\obj\Debug\Obliczenia.pdb
+E:\Obliczenia\Obliczenia\bin\Debug\Obliczenia.exe
+E:\Obliczenia\Obliczenia\bin\Debug\Obliczenia.pdb
+E:\Obliczenia\Obliczenia\bin\Debug\Obliczenia.xml
+E:\Obliczenia\Obliczenia\obj\Debug\ResolveAssemblyReference.cache
+E:\Obliczenia\Obliczenia\obj\Debug\Kazia.Form1.resources
+E:\Obliczenia\Obliczenia\obj\Debug\Kazia.Resources.resources
+E:\Obliczenia\Obliczenia\obj\Debug\Obliczenia.vbproj.GenerateResource.Cache
+E:\Obliczenia\Obliczenia\obj\Debug\Kazia.AboutBox1.resources
+H:\Obliczenia\Obliczenia\obj\Debug\Obliczenia.exe
+H:\Obliczenia\Obliczenia\obj\Debug\Obliczenia.xml
+H:\Obliczenia\Obliczenia\obj\Debug\Obliczenia.pdb
+H:\Obliczenia\Obliczenia\bin\Debug\Obliczenia.exe
+H:\Obliczenia\Obliczenia\bin\Debug\Obliczenia.pdb
+H:\Obliczenia\Obliczenia\bin\Debug\Obliczenia.xml
+H:\Obliczenia\Obliczenia\obj\Debug\ResolveAssemblyReference.cache
+H:\Obliczenia\Obliczenia\obj\Debug\Kazia.AboutBox1.resources
+H:\Obliczenia\Obliczenia\obj\Debug\Kazia.Form1.resources
+H:\Obliczenia\Obliczenia\obj\Debug\Kazia.Resources.resources
+H:\Obliczenia\Obliczenia\obj\Debug\Obliczenia.vbproj.GenerateResource.Cache
+H:\Obliczenia\Obliczenia\bin\Release\Obliczenia.exe
+H:\Obliczenia\Obliczenia\bin\Release\Obliczenia.pdb
+H:\Obliczenia\Obliczenia\bin\Release\Obliczenia.xml
+H:\Obliczenia\Obliczenia\obj\Release\ResolveAssemblyReference.cache
+H:\Obliczenia\Obliczenia\obj\Release\Kazia.AboutBox1.resources
+H:\Obliczenia\Obliczenia\obj\Release\Kazia.Form1.resources
+H:\Obliczenia\Obliczenia\obj\Release\Kazia.Resources.resources
+H:\Obliczenia\Obliczenia\obj\Release\Obliczenia.vbproj.GenerateResource.Cache
+H:\Obliczenia\Obliczenia\obj\Release\Obliczenia.exe
+H:\Obliczenia\Obliczenia\obj\Release\Obliczenia.xml
+H:\Obliczenia\Obliczenia\obj\Release\Obliczenia.pdb
+J:\Obliczenia\Obliczenia\obj\Debug\Obliczenia.xml
+J:\Obliczenia\Obliczenia\obj\Debug\Obliczenia.pdb
+J:\Obliczenia\Obliczenia\bin\Debug\Obliczenia.exe
+J:\Obliczenia\Obliczenia\bin\Debug\Obliczenia.pdb
+J:\Obliczenia\Obliczenia\bin\Debug\Obliczenia.xml
+J:\Obliczenia\Obliczenia\obj\Debug\ResolveAssemblyReference.cache
+J:\Obliczenia\Obliczenia\obj\Debug\Kazia.AboutBox1.resources
+J:\Obliczenia\Obliczenia\obj\Debug\Kazia.Form1.resources
+J:\Obliczenia\Obliczenia\obj\Debug\Kazia.Resources.resources
+J:\Obliczenia\Obliczenia\obj\Debug\Obliczenia.vbproj.GenerateResource.Cache
+J:\Obliczenia\Obliczenia\obj\Debug\Obliczenia.exe
+F:\Obliczenia\Obliczenia\obj\Debug\Obliczenia.exe
+F:\Obliczenia\Obliczenia\obj\Debug\Obliczenia.xml
+F:\Obliczenia\Obliczenia\obj\Debug\Obliczenia.pdb
+F:\Obliczenia\Obliczenia\bin\Debug\Obliczenia.exe
+F:\Obliczenia\Obliczenia\bin\Debug\Obliczenia.pdb
+F:\Obliczenia\Obliczenia\bin\Debug\Obliczenia.xml
+F:\Obliczenia\Obliczenia\obj\Debug\ResolveAssemblyReference.cache
+F:\Obliczenia\Obliczenia\obj\Debug\Kazia.AboutBox1.resources
+F:\Obliczenia\Obliczenia\obj\Debug\Kazia.Form1.resources
+F:\Obliczenia\Obliczenia\obj\Debug\Kazia.Resources.resources
+F:\Obliczenia\Obliczenia\obj\Debug\Obliczenia.vbproj.GenerateResource.Cache
+J:\Obliczenia\Obliczenia\bin\Release\Obliczenia.exe
+J:\Obliczenia\Obliczenia\bin\Release\Obliczenia.pdb
+J:\Obliczenia\Obliczenia\bin\Release\Obliczenia.xml
+J:\Obliczenia\Obliczenia\obj\Release\ResolveAssemblyReference.cache
+J:\Obliczenia\Obliczenia\obj\Release\Kazia.AboutBox1.resources
+J:\Obliczenia\Obliczenia\obj\Release\Kazia.Form1.resources
+J:\Obliczenia\Obliczenia\obj\Release\Kazia.Resources.resources
+J:\Obliczenia\Obliczenia\obj\Release\Obliczenia.vbproj.GenerateResource.Cache
+J:\Obliczenia\Obliczenia\obj\Release\Obliczenia.exe
+J:\Obliczenia\Obliczenia\obj\Release\Obliczenia.xml
+J:\Obliczenia\Obliczenia\obj\Release\Obliczenia.pdb
+F:\Obliczenia\Obliczenia\obj\Release\Obliczenia.exe
+F:\Obliczenia\Obliczenia\obj\Release\Obliczenia.xml
+F:\Obliczenia\Obliczenia\obj\Release\Obliczenia.pdb
+F:\Obliczenia\Obliczenia\bin\Release\Obliczenia.exe
+F:\Obliczenia\Obliczenia\bin\Release\Obliczenia.pdb
+F:\Obliczenia\Obliczenia\bin\Release\Obliczenia.xml
+F:\Obliczenia\Obliczenia\obj\Release\ResolveAssemblyReference.cache
+F:\Obliczenia\Obliczenia\obj\Release\Kazia.AboutBox1.resources
+F:\Obliczenia\Obliczenia\obj\Release\Kazia.Form1.resources
+F:\Obliczenia\Obliczenia\obj\Release\Kazia.Resources.resources
+F:\Obliczenia\Obliczenia\obj\Release\Obliczenia.vbproj.GenerateResource.Cache
